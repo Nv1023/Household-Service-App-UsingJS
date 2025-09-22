@@ -186,5 +186,21 @@ Charts and analytics for admin dashboard.
 Notification systems for service updates.
 Single responsive UI for mobile and desktop.
 
-## 🤝 Contributing
-Feel free to fork the repo and submit pull requests. For major changes, please open an issue first to discuss what you'd like to improve.
+## 🤝 Contribution
+
+Contributions are welcome!
+
+Fork the repo.
+
+Create a new branch.
+
+Commit changes and open a pull request.
+
+For major updates, open an issue first to discuss.
+
+## 👤 Author
+
+Nagavengadeshwaran S
+🚀 Developer of Household Services Application – V2
+📧 Email: 24f1000802@ds.study.iitm.ac.in
+🔗 GitHub: Nv1023
